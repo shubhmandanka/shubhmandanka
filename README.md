@@ -14,7 +14,7 @@
 <br>
 <h2> My GitHub Stats</h2>
 <p>
-<img src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhmandanka&layout=compact&langs_count=8&theme=dark" height=195>
+<img src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhmandanka&layout=compact&langs_count=8&theme=dark">
 <img src = "https://github-readme-stats.vercel.app/api?username=shubhmandanka&theme=github_dark&show_icons=true">
 </p>
 <p align="center"><img src = "https://streak-stats.demolab.com?user=shubhmandanka&theme=Javascript-dark"> </p>
