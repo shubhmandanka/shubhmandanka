@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> &nbsp;  Hello Folks  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp;  I'm Shubham Mandanka <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
-<p>🌱 &nbsp;Currently Working on FrontEnd Development. :wink:</p>
+<p>🌱 &nbsp;Currently Working on Developing Field. :wink:</p>
 <p>🔭 &nbsp;Upgrading Skills Day by Day.</p>
 
 <p>⚡ &nbsp;:heart: : :dog: and &nbsp;:video_game:.  </p>
