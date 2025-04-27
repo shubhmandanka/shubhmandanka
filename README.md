@@ -3,7 +3,7 @@
 <p>🌱 &nbsp;Currently Working on Developing Field. :wink:</p>
 <p>🔭 &nbsp;Upgrading Skills Day by Day.</p>
 
-<p>⚡ &nbsp;:heart: : :dog: and &nbsp;:video_game:.  </p>
+<p>⚡ &nbsp;❤️ 🐶 and 🎮</p>
 <br><br><br>
 
 <h2>Connect with me</h2>
